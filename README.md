@@ -56,17 +56,6 @@ wget http://packages.ros.org/ros.key -O - | sudo apt-key add -
 sudo apt-get update -qq
 ```
 
-### Binary install
-
-For a binary install, it suffices to run this command:
-
-```bash
-sudo apt install ros-noetic-mir-robot
-```
-
-See the tables at the end of this README for a list of ROS distros for which
-binary packages are available.
-
 ### Source install
 
 For a source install, run the commands below instead of the command from the
