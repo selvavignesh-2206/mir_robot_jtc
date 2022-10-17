@@ -19,9 +19,6 @@ This repo has been confirmed to work with the following robots:
 * MiR 200
 * MiR 500
 
-It probably also works with the MiR250 and MiR1000. If you can test it on one
-of those, please let us know if it works.
-
 The only supported software version is **MiR software 2.8.3.1**. You can try if
 it works with other versions, but this is the one that is known to work.
 
